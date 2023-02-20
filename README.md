@@ -1,5 +1,5 @@
 Task:
-Create a new table: transactions, with the following columns:
+Create a new table: loans, with the following columns:
 - id (int, primary key)
 - loan (integer)
 - interest rate (integer)
